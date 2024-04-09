@@ -117,7 +117,7 @@
 
 ###
 
-<h3 align="left">Myself Akash!<br>Looking to upgrade my skill sets</h3>
+<h3 align="left">Myself Akash!<br>Looking to upgrade my skill sets<br>Projects:<a href="https://vercel.com/akash-srivastavas-projects"> on Vercel</a></h3>
 
 ###
 
